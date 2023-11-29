@@ -1,0 +1,3 @@
+[submodule "project2"]
+	path = project2
+	url = https://github.com/fangchuan/ELEC6910-project2.git
